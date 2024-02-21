@@ -12,6 +12,7 @@ namespace GitExample
 {
     public partial class Form1 : Form
     {
+        // Update 1.0
         public Form1()
         {
             InitializeComponent();
